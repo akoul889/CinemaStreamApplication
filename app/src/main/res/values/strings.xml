@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CinemaStream</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="checkin">Checkin</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_text">Title</string>
+    <string name="genre_text">Genre</string>
+    <string name="censor_rating_text">Censor Rating</string>
+    <string name="run_time_text">Runtime</string>
+    <string name="rating_text">Rating</string>
+    <string name="duration_text">Duration</string>
+    <string name="state_text">State</string>
+    <string name="country_text">Country</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="search_hint">Search</string>
+    <string name="text_details">Details</string>
+    <string name="text_actors">Actors</string>
+    <string name="directors">Director/s</string>
+    <string name="text_songs">Songs</string>
+    <string name="text_location">Location</string>
+    <string name="no_data">No data found</string>
+    <string name="no_data_text">Sorry! no related data found</string>
+    <string name="search_helper">Click on Search icon</string>
+    <string name="search_helper_details">Please click on search icon to search movies</string>
+    <string name="description_text">Description</string>
+</resources>
